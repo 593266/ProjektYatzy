@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<Resource id="oblig" name="oblig" type="jakarta.sql.DataSource">
+	jdbcDriver = org.postgresql.Driver
+	jdbcUrl = jdbc:postgresql://ider-database.westeurope.cloudapp.azure.com:5432/h593266
+	username = h593266
+	password = pass
+	</Resource>
+</resources>	
